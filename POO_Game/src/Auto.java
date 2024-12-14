@@ -21,6 +21,7 @@ public class Auto {
         System.out.println("Motor Apagado");
         bEncendidoMotor = false;
     }
+    //Actualizando el commit del repositorio remoto
     public void avanzar(){
         System.out.println("Acelerando ...");
         //Falta considerar cuando se llega al limite: dVelocidadMaxima
