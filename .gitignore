@@ -1,0 +1,8 @@
+# Ignorar carpetas específicas
+AppArrays/.idea/
+ArrayMulti/.idea/
+
+# Ignorar archivos generados
+*.log
+*.tmp
+
